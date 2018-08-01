@@ -1,0 +1,47 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@trendmicro/react-dropdown": "^1.2.3",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "google-map-react": "^1.0.5",
+    "localforage": "^1.7.2",
+    "mdbootstrap": "^4.5.6",
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "react-dropdown": "^1.5.0",
+    "react-dropdown-button": "^1.0.11",
+    "react-google-maps": "^9.4.5",
+    "react-js-pagination": "^3.0.2",
+    "react-loading-animation": "^1.4.0",
+    "react-logger": "^1.1.0",
+    "react-pager": "^1.3.3",
+    "react-photo-gallery": "6.0.28",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-slideshow-image": "^0.2.2",
+    "reactstrap": "^6.2.0",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "dev": "next"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.1",
+    "prettier": "1.13.7",
+    "react-responsive-select": "^4.1.0"
+  }
+}
