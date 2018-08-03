@@ -2,6 +2,7 @@
   "name": "example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://dsc-power.com/Atelier_react/",
   "dependencies": {
     "@trendmicro/react-dropdown": "^1.2.3",
     "axios": "^0.18.0",
